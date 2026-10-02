@@ -29,49 +29,61 @@
 ## 09 — Text-to-Text
 
 ### 09.01 — Deep Reflection & Thinking Experiments
+- Blind Spot Detector
+- Reflection Engine
+- Socratic Interrogation
+- Brutal Advisor
+- Seven Layers of Self-Awareness
+- Problem Defrag
+- The Role I Hide Behind
+- Belief Archaeologist
+- Values vs Behavior Contradiction Test
+- Shadow Reaction Investigator
+- Inner Committee
+- Decision Cross-Examination
+- Future Self Cross-Examination
 
-Interactive text-to-text experiments for self-reflection, blind spots, assumptions, identity roles, belief systems, values, reactions, internal conflicts, adversarial decision testing, problem reframing, and future perspective.
+### 09.02 — Experimental Dialogues
 
-#### Original Set
-- [Blind Spot Detector](09-text-to-text/deep-reflection-thinking/blind-spot-detector/prompt.md)
-- [Reflection Engine](09-text-to-text/deep-reflection-thinking/reflection-engine/prompt.md)
-- [Socratic Interrogation](09-text-to-text/deep-reflection-thinking/socratic-interrogation/prompt.md)
-- [Brutal Advisor](09-text-to-text/deep-reflection-thinking/brutal-advisor/prompt.md)
-- [Seven Layers of Self-Awareness](09-text-to-text/deep-reflection-thinking/seven-layers-of-self-awareness/prompt.md)
-- [Problem Defrag](09-text-to-text/deep-reflection-thinking/problem-defrag/prompt.md)
+Unusual interactive experiments that manipulate dialogue structure, framing, roles, uncertainty, and meta-prompting.
 
-#### Advanced Set
-- [The Role I Hide Behind](09-text-to-text/deep-reflection-thinking/role-i-hide-behind/prompt.md)
-- [Belief Archaeologist](09-text-to-text/deep-reflection-thinking/belief-archaeologist/prompt.md)
-- [Values vs Behavior Contradiction Test](09-text-to-text/deep-reflection-thinking/values-vs-behavior-contradiction-test/prompt.md)
-- [Shadow Reaction Investigator](09-text-to-text/deep-reflection-thinking/shadow-reaction-investigator/prompt.md)
-- [Inner Committee](09-text-to-text/deep-reflection-thinking/inner-committee/prompt.md)
-- [Decision Cross-Examination](09-text-to-text/deep-reflection-thinking/decision-cross-examination/prompt.md)
-- [Future Self Cross-Examination](09-text-to-text/deep-reflection-thinking/future-self-cross-examination/prompt.md)
+#### Experimental Set
+- [10-Question Constraint Hunt](09-text-to-text/experimental-dialogues/10-question-constraint-hunt/prompt.md)
+- [The Last Message](09-text-to-text/experimental-dialogues/the-last-message/prompt.md)
+- [AI Invents Its Own Experiment](09-text-to-text/experimental-dialogues/ai-invents-its-own-experiment/prompt.md)
+- [The Missing Question](09-text-to-text/experimental-dialogues/the-missing-question/prompt.md)
+- [The Invisible Interviewer](09-text-to-text/experimental-dialogues/the-invisible-interviewer/prompt.md)
+- [Make My Belief Defend Itself](09-text-to-text/experimental-dialogues/make-my-belief-defend-itself/prompt.md)
+- [The Contradiction Mirror](09-text-to-text/experimental-dialogues/the-contradiction-mirror/prompt.md)
+- [The Question That Changes the Answer](09-text-to-text/experimental-dialogues/the-question-that-changes-the-answer/prompt.md)
+- [Controlled Two-Pass Reasoning](09-text-to-text/experimental-dialogues/controlled-two-pass-reasoning/prompt.md)
+- [Ask Me What I Don't Want to Answer](09-text-to-text/experimental-dialogues/ask-me-what-i-dont-want-to-answer/prompt.md)
 
 ### Search terms
 
-`blind spot`
-`self reflection`
-`reflection engine`
-`Socratic interrogation`
-`brutal advisor`
-`seven layers`
-`problem defrag`
-`identity patterns`
-`belief archaeology`
-`values vs behavior`
-`shadow reaction`
-`inner committee`
-`decision cross-examination`
-`future self`
-`كشف النقاط العمياء`
-`تحليل ذاتي`
-`استجواب سقراطي`
-`الدور الذي أختبئ خلفه`
-`أصل القناعة`
-`القيم والسلوك`
-`تحليل ردود الفعل`
-`لجنة داخلية`
-`محاكمة القرار`
-`ذاتّي المستقبلية`
+`experimental prompt`
+`weird ChatGPT prompt`
+`conversation experiment`
+`meta prompt`
+`constraint hunt`
+`the last message`
+`self generated prompt`
+`missing question`
+`invisible interviewer`
+`belief defense`
+`contradiction mirror`
+`framing experiment`
+`two pass reasoning`
+`avoidant question`
+`برومبت غريب`
+`تجارب مع ChatGPT`
+`تجربة نصية`
+`صيد القيود`
+`الرسالة الأخيرة`
+`السؤال المفقود`
+`المحاور الخفي`
+`دافع عن قناعتي`
+`مرآة التناقض`
+`تغيير السؤال`
+`مراجعة على مرحلتين`
+`السؤال الذي لا أريد الإجابة عنه`

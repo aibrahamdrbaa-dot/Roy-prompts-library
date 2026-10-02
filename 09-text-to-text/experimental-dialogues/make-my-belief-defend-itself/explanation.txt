@@ -1,0 +1,24 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-EXP-006
+TITLE: Make My Belief Defend Itself
+
+PURPOSE
+Stress-tests a strongly held belief through sequential role changes: defense attorney → opposing counsel → judge.
+
+WHY IT IS STRONG
+Starting with the strongest defense prevents the critique from attacking a weak caricature. The final stage focuses on evidence rather than rhetorical persuasion.
+
+BEST USES
+- Strong personal beliefs.
+- Business assumptions.
+- Strategy decisions.
+- Intellectual disagreements.
+
+KEY CONCEPT
+Steelman first, attack second, adjudicate last.
+
+SEARCH
+belief defense, devil's advocate, opposing counsel, belief stress test, steelman, اختبار القناعة, محامي الخصم
+
+SOURCE NOTE
+Roy-adapted from Devil's Advocate, steelman, and adversarial reasoning patterns.

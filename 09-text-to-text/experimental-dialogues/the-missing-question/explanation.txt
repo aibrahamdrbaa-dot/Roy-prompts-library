@@ -1,0 +1,24 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-EXP-004
+TITLE: The Missing Question
+
+PURPOSE
+Finds a question that is absent from the user's framing but could materially change the problem.
+
+CORE IDEA
+The model is prohibited from solving the stated problem until it has investigated whether the framing itself is incomplete.
+
+WHY IT IS STRONG
+Many difficult problems are difficult partly because the wrong question is being optimized. This experiment attacks the framing layer first.
+
+BEST USES
+- Business strategy.
+- Research questions.
+- Personal decisions.
+- Problems that produce repetitive failed solutions.
+
+SEARCH
+missing question, question behind the question, problem framing, reframing, السؤال المفقود, إعادة تأطير المشكلة
+
+SOURCE NOTE
+Roy-adapted from problem-reframing and "missing question" prompt patterns.

@@ -1,0 +1,27 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-EXP-009
+TITLE: Controlled Two-Pass Reasoning
+
+PURPOSE
+Creates two independent passes: a fast plausible answer and a deliberate second attempt, then compares the assumptions and verifies the outputs.
+
+WHY IT IS INTERESTING
+It exposes differences between first-pass intuition and later reconsideration.
+
+IMPORTANT
+The second pass is not assumed to be correct automatically. The final instruction explicitly requires verification.
+
+BEST USES
+- Logic problems.
+- Planning.
+- Technical reasoning.
+- Checking whether an answer changes under deliberate review.
+
+SAFETY
+This prompt should not be used as a substitute for external verification when accuracy has high consequences.
+
+SEARCH
+two pass reasoning, self correction, answer comparison, error analysis, مراجعة على مرحلتين, تصحيح الإجابة
+
+SOURCE NOTE
+Roy-adapted from two-pass self-check and answer-comparison prompt patterns.

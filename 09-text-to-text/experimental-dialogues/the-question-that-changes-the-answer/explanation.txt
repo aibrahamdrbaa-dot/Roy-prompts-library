@@ -1,0 +1,26 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-EXP-008
+TITLE: The Question That Changes the Answer
+
+PURPOSE
+Demonstrates how different interpretations of the same problem can produce different answers.
+
+CORE IDEA
+The experiment separates:
+problem statement → interpretation → hidden assumption → resulting answer.
+
+WHY IT IS USEFUL
+It makes framing visible instead of treating the first interpretation as objective.
+
+BEST USES
+- Strategy.
+- Research.
+- Complex questions.
+- Prompt engineering.
+- Debugging ambiguous requests.
+
+SEARCH
+framing effect, question reformulation, answer sensitivity, problem interpretation, changing the question, تأثير صياغة السؤال, إعادة صياغة المشكلة
+
+SOURCE NOTE
+Roy-adapted from problem-framing and question-reformulation experiment patterns.

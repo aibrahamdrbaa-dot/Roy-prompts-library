@@ -1,0 +1,23 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-EXP-005
+TITLE: The Invisible Interviewer
+
+PURPOSE
+Creates an interview where the user does not know the discovery target until the end.
+
+WHY IT IS INTERESTING
+The user answers questions without constantly optimizing their answers for the stated objective. The model also has to build the path dynamically.
+
+IMPORTANT LIMIT
+Not knowing the goal can make the experience feel revealing, but it does not make the resulting inference objectively true.
+
+BEST USES
+- Self-reflection experiments.
+- Exploring habits and choices.
+- Demonstrating adaptive questioning.
+
+SEARCH
+invisible interviewer, hidden interview goal, adaptive interview, one question at a time, المحاور الخفي, الهدف المخفي
+
+SOURCE NOTE
+Roy-adapted from hidden-goal self-discovery interview patterns.

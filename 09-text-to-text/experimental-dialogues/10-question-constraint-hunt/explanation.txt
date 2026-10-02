@@ -1,0 +1,26 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-EXP-001
+TITLE: 10-Question Constraint Hunt
+
+PURPOSE
+A hidden-target interview designed to discover a major constraint or bottleneck without telling the model the exact target during the questioning phase.
+
+WHY IT FEELS DIFFERENT
+The model is instructed not to explain what it is searching for. Each question must depend on the previous answer, creating an adaptive path instead of a fixed questionnaire.
+
+BEST USES
+- Repeated life or work bottlenecks.
+- Situations where you feel stuck but cannot identify why.
+- Finding a constraint that is obscured by surface problems.
+
+KEY DESIGN
+Question 1 → answer → tailored question 2 → … → question 10 → hypothesis + evidence + experiment.
+
+LIMITATION
+A "biggest constraint" is a hypothesis based on conversation evidence, not an objective diagnosis.
+
+SEARCH
+constraint hunt, hidden constraint, 10 questions, one question at a time, صيد القيود, القيد الخفي, عشرة أسئلة
+
+SOURCE NOTE
+Roy-adapted from a recent interactive 10-question constraint-hunt experiment pattern.

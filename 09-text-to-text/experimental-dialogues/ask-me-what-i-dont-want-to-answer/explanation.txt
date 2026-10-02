@@ -1,0 +1,26 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-EXP-010
+TITLE: Ask Me What I Don't Want to Answer
+
+PURPOSE
+Uses indirect questioning to identify a topic or question the user may be reluctant to answer directly.
+
+WHAT IT TRACKS
+Changes in wording, vagueness, redirection, contradictions, quick dismissal, and disproportionate justification.
+
+WHY IT FEELS UNUSUAL
+The prompt does not ask the uncomfortable question immediately. It tries to approach it progressively, making the conversation itself the experiment.
+
+IMPORTANT LIMIT
+Hesitation is not proof of avoidance. The prompt explicitly requires uncertainty and alternative explanations.
+
+BEST USES
+- Self-reflection.
+- Exploring difficult decisions.
+- Discovering topics that repeatedly trigger defensiveness or avoidance.
+
+SEARCH
+avoidant question, uncomfortable question, indirect interview, evasive answers, السؤال الذي لا أريد الإجابة عنه, التهرب, التردد
+
+SOURCE NOTE
+Roy-adapted from indirect self-discovery interview patterns.

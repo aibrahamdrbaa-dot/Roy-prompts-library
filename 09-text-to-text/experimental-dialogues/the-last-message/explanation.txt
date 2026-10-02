@@ -1,0 +1,21 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-EXP-002
+TITLE: The Last Message
+
+PURPOSE
+A minimal creative experiment that asks the model to choose the recipient and compose a short final message without being given any personal context.
+
+WHAT MAKES IT INTERESTING
+The prompt deliberately removes most of the usual instructions. The recipient is not specified; the model must make the choice itself.
+
+BEST USE
+Use as a standalone curiosity experiment and compare outputs across models or fresh chats.
+
+NOTE
+This is a creative exercise, not a reliable method for inferring hidden facts about the user.
+
+SEARCH
+last message, final message, recipient choice, minimal prompt, الرسالة الأخيرة, اختيار المتلقي
+
+SOURCE NOTE
+Roy-adapted from a recent conversational experiment pattern.

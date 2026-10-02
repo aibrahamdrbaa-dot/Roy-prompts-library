@@ -1,0 +1,28 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-EXP-007
+TITLE: The Contradiction Mirror
+
+PURPOSE
+Looks for contradictions between stated goals and repeated behavior, not merely contradictions between sentences.
+
+WHAT IT EXAMINES
+Wants vs actions, avoidance vs claims, priorities vs declared priorities, tolerances vs dislikes, and claimed impossibility vs demonstrated ability.
+
+CORE MOVE
+Instead of resolving the contradiction itself, the model asks what conditions could make both sides simultaneously make sense.
+
+BEST USES
+- Personal strategy.
+- Productivity.
+- Goal setting.
+- Repeated self-justification.
+- Detecting unclear priorities.
+
+LIMITATION
+A mismatch can have many valid explanations, such as changing constraints or context. The prompt therefore requires evidence and allows insufficient evidence as an outcome.
+
+SEARCH
+contradiction mirror, belief behavior contradiction, priorities, contradiction analysis, مرآة التناقض, تناقض الكلام والسلوك
+
+SOURCE NOTE
+Roy-adapted from contradiction-detection and values-vs-behavior reflection patterns.

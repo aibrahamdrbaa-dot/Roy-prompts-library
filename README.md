@@ -14,40 +14,47 @@ A structured, searchable library of reusable AI prompts maintained for Roy.
 | `06-research` | Research, analysis, extraction, comparison |
 | `07-automation` | Automations, workflows, integrations |
 | `08-agents` | AI agents, tools, memory, orchestration |
-| `09-text-to-text` | Interactive reasoning, reflection, questioning, and thinking experiments |
+| `09-text-to-text` | Interactive reasoning, reflection, questioning, and experiments |
 
 ## Prompt file convention
 
 Every reusable prompt uses two companion files in the same folder:
 
-- `.md` — the production prompt, metadata, use cases, and usage notes.
-- `.txt` — a plain-text explanation of what the prompt does, how it works, and when to use it.
+- `.md` — production prompt, metadata, keywords, and usage structure.
+- `.txt` — explanation, mechanism, best uses, limitations, and source note.
 
-## Text-to-Text search keywords
+## Text-to-Text subcategories
 
-Use English or Arabic keywords when searching this repository:
+- `deep-reflection-thinking` — self-reflection, blind spots, beliefs, values, identity roles, reactions, decision testing.
+- `experimental-dialogues` — unusual conversational experiments, meta-prompts, hidden-goal interviews, framing tests, and multi-pass reasoning.
 
+## Search keywords
+
+Use English or Arabic keywords. Examples:
+
+`logo animation`
+`storefront logo reveal`
 `blind spot`
 `self reflection`
-`reflection engine`
 `Socratic interrogation`
-`brutal advisor`
-`seven layers`
-`problem defrag`
 `identity patterns`
 `belief archaeology`
 `values vs behavior`
-`shadow reaction`
-`inner committee`
 `decision cross-examination`
 `future self`
-`كشف النقاط العمياء`
+`experimental prompt`
+`weird ChatGPT prompt`
+`conversation experiment`
+`meta prompt`
+`missing question`
+`invisible interviewer`
+`contradiction mirror`
+`two pass reasoning`
+`برومبت غريب`
+`تجارب مع ChatGPT`
 `تحليل ذاتي`
-`استجواب سقراطي`
-`الدور الذي أختبئ خلفه`
-`أصل القناعة`
-`القيم والسلوك`
-`تحليل ردود الفعل`
-`لجنة داخلية`
+`كشف النقاط العمياء`
+`السؤال المفقود`
+`المحاور الخفي`
 `محاكمة القرار`
-`ذاتّي المستقبلية`
+`مرآة التناقض`

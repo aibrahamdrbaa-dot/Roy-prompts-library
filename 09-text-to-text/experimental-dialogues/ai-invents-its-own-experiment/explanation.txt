@@ -1,0 +1,23 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-EXP-003
+TITLE: AI Invents Its Own Experiment
+
+PURPOSE
+A meta-prompt where the model first creates an experiment for itself and then runs that experiment.
+
+WHY IT IS INTERESTING
+Instead of specifying the object-level task, the user delegates task design to the model. This creates a second-order prompt: the model is prompting itself.
+
+BEST USE
+- Curiosity about how different models choose experimental tasks.
+- Comparing model behaviors.
+- Demonstrating meta-prompting.
+
+LIMITATION
+A model's generated "insight" about itself should not be treated as a literal internal report about hidden model mechanisms.
+
+SEARCH
+self generated prompt, AI self experiment, meta prompt, prompt about prompting, الذكاء الاصطناعي يصمم تجربته, برومبت ميتا
+
+SOURCE NOTE
+Roy-adapted from a public self-generated-prompt experiment pattern.
