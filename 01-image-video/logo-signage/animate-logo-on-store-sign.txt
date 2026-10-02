@@ -1,0 +1,103 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-IMGVID-LOGO-001
+
+TITLE
+Animate Logo on Store Sign
+
+CATEGORY
+Image / Video → Logo & Signage Animation
+
+PRIMARY USE
+Use this prompt when you have a static image of a shop, storefront, building, signboard, or commercial scene and the logo already exists visibly on the sign. The goal is to animate only that existing logo while keeping the original scene unchanged.
+
+SEARCH KEYWORDS
+English:
+logo animation
+logo reveal
+signage animation
+storefront logo reveal
+store sign animation
+shop sign animation
+signboard animation
+animate logo in image
+existing logo animation
+image-to-video logo
+logo assembly
+piece-by-piece logo reveal
+commercial logo motion
+premium logo animation
+cinematic logo reveal
+After Effects style
+motion graphics
+scene lock
+camera lock
+identity preservation
+
+Arabic:
+تحريك لوغو
+تحريك شعار
+تحريك شعار محل
+تحريك لوغو متجر
+تحريك لوغو على اللافتة
+تحريك لافتة متجر
+تحريك لافتة محل
+موشن للوغو
+ظهور الشعار
+كشف الشعار
+تجميع الشعار
+تحريك شعار داخل صورة
+تحويل صورة إلى فيديو مع تحريك الشعار
+
+HOW THE PROMPT WORKS
+
+1) TASK ISOLATION
+The prompt starts by defining one target: the existing logo. This prevents the model from interpreting the request as a general image animation.
+
+2) SCENE LOCK
+The prompt explicitly freezes the background, architecture, people, objects, colors, perspective, framing, and camera. This is the main protection against unwanted scene regeneration.
+
+3) LOGO PRESERVATION
+The prompt tells the model to preserve the exact existing logo. This protects typography, symbols, proportions, spacing, and colors.
+
+4) TIMELINE
+The logo starts absent or invisible while the scene stays static. It then appears progressively. This creates a reveal rather than a simple fade-in.
+
+5) PIECE-BY-PIECE ASSEMBLY
+The letters and symbols are introduced individually or in small groups. The intended visual language is controlled motion design rather than random generative motion.
+
+6) MOTION LANGUAGE
+Slide + scale + settle + minimal bounce gives the model specific movement ideas. This is more controllable than vague wording such as "make it dynamic."
+
+7) CAMERA LOCK
+Camera movement is explicitly prohibited. This is important when the source image is a storefront or architectural photograph and the purpose is to animate the sign rather than the scene.
+
+8) COMMERCIAL REFERENCE
+"Premium cinematic commercial" and "After Effects motion graphics" describe the desired quality and motion-design language. They are style references, not instructions to literally open or use After Effects.
+
+9) FINAL STATE
+The prompt defines the end condition: the original logo is fully visible in its correct position and design.
+
+IMPORTANT
+The strongest idea in this prompt is not a special magic phrase. It is the combination of:
+- one moving subject
+- a locked scene
+- an exact identity-preservation rule
+- an explicit reveal timeline
+- concrete motion types
+- a defined final state
+
+This structure can be adapted beyond logos to:
+product labels, package graphics, storefront signs, posters, UI elements, text on physical surfaces, and other selected elements inside a still image.
+
+QUICK ADAPTATION
+Replace "existing logo" with the exact element you want to animate, then rewrite the preservation section so every non-target element remains locked.
+
+EXAMPLE SEARCH INTENT
+"تحريك لوغو متجر على اللافتة"
+"تحريك شعار المحل بدون تغيير الصورة"
+"Animate a storefront logo from a static image"
+"Animate the logo on a shop sign"
+"Logo reveal on existing storefront photo"
+
+SOURCE NOTE
+This prompt was extracted and structured from the reel provided in the conversation, then organized into a reusable Roy Prompts Library format.
