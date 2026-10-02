@@ -1,0 +1,27 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-REF-011
+TITLE: Inner Committee
+
+PURPOSE
+Turns an internal conflict into a structured dialogue between competing motives.
+
+CORE IDEA
+Instead of treating indecision as one voice saying "yes" and another saying "no", the prompt breaks the conflict into perspectives such as achievement, protection, risk, fatigue, analysis, social approval, or future planning.
+
+IMPORTANT
+These "parts" are working labels for motives expressed in the conversation. The prompt explicitly avoids claiming that they are separate psychological entities.
+
+PROCESS
+Perspective identification → one-question interviews → evidence testing → structured committee discussion → hidden trade-off → missing information.
+
+BEST USES
+- Difficult decisions.
+- Conflicting goals.
+- Situations where logic and emotion pull in different directions.
+- Understanding what different motives are trying to protect.
+
+SEARCH
+inner committee, competing motives, internal conflict, parts dialogue, decision conflict, IFS inspired, لجنة داخلية, صراع داخلي, دوافع متعارضة
+
+SOURCE NOTE
+Roy-adapted from parts-oriented and IFS-inspired AI reflection prompt patterns.

@@ -18,18 +18,15 @@ A structured, searchable library of reusable AI prompts maintained for Roy.
 
 ## Prompt file convention
 
-Every reusable prompt can have two companion files in the same folder:
+Every reusable prompt uses two companion files in the same folder:
 
 - `.md` — the production prompt, metadata, use cases, and usage notes.
 - `.txt` — a plain-text explanation of what the prompt does, how it works, and when to use it.
 
-## Search keywords
+## Text-to-Text search keywords
 
-Use English or Arabic keywords when searching this repository. Examples:
+Use English or Arabic keywords when searching this repository:
 
-`logo animation`
-`storefront logo reveal`
-`animate logo in image`
 `blind spot`
 `self reflection`
 `reflection engine`
@@ -37,11 +34,20 @@ Use English or Arabic keywords when searching this repository. Examples:
 `brutal advisor`
 `seven layers`
 `problem defrag`
-`تحريك لوغو`
-`تحريك شعار محل`
-`تحريك لوغو على اللافتة`
-`تحليل ذاتي`
+`identity patterns`
+`belief archaeology`
+`values vs behavior`
+`shadow reaction`
+`inner committee`
+`decision cross-examination`
+`future self`
 `كشف النقاط العمياء`
+`تحليل ذاتي`
 `استجواب سقراطي`
-`تجربة نفسية مع ChatGPT`
-`تفكيك المشكلة`
+`الدور الذي أختبئ خلفه`
+`أصل القناعة`
+`القيم والسلوك`
+`تحليل ردود الفعل`
+`لجنة داخلية`
+`محاكمة القرار`
+`ذاتّي المستقبلية`

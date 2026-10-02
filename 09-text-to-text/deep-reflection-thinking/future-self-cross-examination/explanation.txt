@@ -1,0 +1,31 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-REF-013
+TITLE: Future Self Cross-Examination
+
+PURPOSE
+Uses an imagined future version of the user as a perspective-taking device.
+
+IMPORTANT
+It is explicitly a reflection simulation, not a prediction about the future.
+
+CORE QUESTIONS
+The future perspective examines attention, postponement, fears, opportunities, compounding habits, recurring problems, and which tests might have been started earlier.
+
+WHY IT WORKS
+A future perspective can make opportunity costs and long-term consequences easier to examine than a purely present-focused analysis.
+
+BEST USES
+- Long-term goals.
+- Major decisions.
+- Habit reflection.
+- Career and project strategy.
+- Situations where short-term urgency hides long-term trade-offs.
+
+LIMITATION
+The future self is not omniscient. The model must not invent future events or present predictions as facts.
+
+SEARCH
+future self, future self interview, ten years from now, long term reflection, compounding habits, أنا المستقبلي, ذاتي المستقبلية, منظور المستقبل
+
+SOURCE NOTE
+Roy-adapted from future-self and long-term reflection prompt patterns collected during research.

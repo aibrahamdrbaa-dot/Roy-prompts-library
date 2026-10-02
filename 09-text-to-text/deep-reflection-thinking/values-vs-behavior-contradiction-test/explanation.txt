@@ -1,0 +1,33 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-REF-009
+TITLE: Values vs Behavior Contradiction Test
+
+PURPOSE
+Extracts values from actual behavior rather than from a list of preferred words.
+
+CORE IDEA
+A person may say they value one thing while repeatedly allocating time, money, attention, or effort toward something else. This prompt makes that discrepancy explicit without declaring which set of values is "correct."
+
+PROCESS
+First collect concrete behavioral evidence.
+Then build:
+MAP A — STATED VALUES
+MAP B — BEHAVIORAL VALUES
+
+Then investigate mismatches using competing explanations and discriminating questions.
+
+WHY IT IS STRONG
+It avoids the common limitation of generic values exercises where almost everyone selects socially desirable values.
+
+BEST USES
+- Priority conflicts.
+- Productivity reflection.
+- Career decisions.
+- Personal strategy reviews.
+- Understanding why stated goals repeatedly lose to other priorities.
+
+SEARCH
+stated values, behavioral values, values contradiction, behavior vs values, priorities, tradeoffs, القيم والسلوك, تناقض القيم, القيم الفعلية
+
+SOURCE NOTE
+Roy-adapted from values-clarification and values-excavation prompt patterns collected during research.

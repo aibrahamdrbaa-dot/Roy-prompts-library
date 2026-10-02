@@ -1,0 +1,36 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-REF-012
+TITLE: Decision Cross-Examination
+
+PURPOSE
+Stress-tests a decision by treating the AI as an opposing counsel rather than an advisor.
+
+CORE MECHANICS
+The prompt looks for:
+- core assumptions
+- overweighted evidence
+- ignored evidence
+- confirmation bias
+- emotional attachment
+- hidden costs
+- missing information
+- the critic's easiest attack
+
+FINAL FRAME
+Case for the decision → Case against → strongest uncertainty → missing information → cheapest test.
+
+WHY IT IS STRONG
+It does not simply ask for "pros and cons". It asks what could invalidate the reasoning and what low-cost test could reduce uncertainty before a larger commitment.
+
+BEST USES
+- Business decisions.
+- Project choices.
+- Career decisions.
+- Product strategy.
+- Major purchases or commitments.
+
+SEARCH
+decision cross examination, devil's advocate, red team, assumption stress test, confirmation bias, محاكمة القرار, اختبار القرار, اختبار الافتراضات
+
+SOURCE NOTE
+Roy-adapted from Devil's Advocate and assumption stress-test prompt patterns.

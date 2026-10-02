@@ -1,0 +1,30 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-REF-007
+TITLE: The Role I Hide Behind
+
+PURPOSE
+Investigates recurring identities or roles a person relies on in different situations instead of trying to label their entire personality.
+
+CORE IDEA
+People often describe themselves through roles such as achiever, expert, helper, rational thinker, perfectionist, or problem-solver. This prompt investigates when a role appears, what it enables, and what it may protect.
+
+WHY IT IS INTERESTING
+The prompt does not assume the role is negative. A role can be highly useful while also creating blind spots when it becomes the default response.
+
+PROCESS
+Role → Trigger → Function → Protection → Evidence → Alternative explanation → Cost/benefit → Experiment.
+
+BEST USES
+- Repeated behavior patterns.
+- Leadership or work identity.
+- Perfectionism-style patterns.
+- Exploring why a person feels uncomfortable when they cannot "be" a certain kind of person.
+
+SEARCH
+identity patterns, roles, hidden role, achiever, expert, helper, perfectionist, self protection, الدور الذي أختبئ خلفه, أدوار الشخصية, أنماط الهوية
+
+LIMITATION
+This is reflective hypothesis generation, not diagnosis or a clinical personality assessment.
+
+SOURCE NOTE
+Roy-adapted from identity-role and self-reflection prompt patterns collected during research.

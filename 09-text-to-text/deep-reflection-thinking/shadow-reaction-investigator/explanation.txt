@@ -1,0 +1,27 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-REF-010
+TITLE: Shadow Reaction Investigator
+
+PURPOSE
+Investigates unusually strong or recurring reactions by separating the objective event from the interpretation attached to it.
+
+CORE STRUCTURE
+Trigger → Interpretation → Emotion → Impulse → Possible protective function → Alternative explanations.
+
+WHY IT IS USEFUL
+Strong reactions can contain information about expectations, meanings, or recurring patterns. The prompt investigates these possibilities without treating a psychological theory as established fact.
+
+SHADOW-WORK ELEMENT
+The prompt asks whether traits a person strongly rejects in others may resemble something they are uncomfortable acknowledging in themselves. This is explicitly treated as a hypothesis, not a fact.
+
+SAFETY CONSTRAINTS
+No diagnosis.
+No invented trauma.
+No invented childhood events.
+No claims about a hidden unconscious mind.
+
+SEARCH
+reaction patterns, emotional triggers, shadow work, projection hypothesis, trigger mapping, تحليل ردود الفعل, محفزات عاطفية, أنماط التفاعل
+
+SOURCE NOTE
+Roy-adapted from shadow-work and parts-oriented reflection patterns collected during research, with stronger evidence and uncertainty constraints.

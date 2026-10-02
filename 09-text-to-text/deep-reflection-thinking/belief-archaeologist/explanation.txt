@@ -1,0 +1,36 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-REF-008
+TITLE: Belief Archaeologist
+
+PURPOSE
+Investigates where important beliefs come from and whether they have actually been personally tested.
+
+CORE IDEA
+Instead of debating whether a belief is "right", the prompt investigates its evidence, origins, reinforcing experiences, contradictions, and whether it may have been inherited.
+
+CLASSIFICATION
+Each belief is classified as:
+1. Personally tested
+2. Partially tested
+3. Mostly inherited
+4. Currently uncertain
+
+KEY QUESTION
+"What would you have to experience for this belief to stop being true?"
+
+This turns a belief into a falsifiable hypothesis instead of an unquestioned rule.
+
+BEST USES
+- Strong beliefs about success or work.
+- Beliefs about relationships.
+- Self-imposed rules.
+- Assumptions inherited from family, culture, or social environments.
+
+LIMITATION
+Do not use the model to fabricate childhood histories or psychological origins. The prompt explicitly blocks this.
+
+SEARCH
+belief archaeology, belief origin, inherited beliefs, belief testing, assumptions, أصل القناعة, معتقدات موروثة, اختبار القناعات
+
+SOURCE NOTE
+Roy-adapted from belief-exploration and values/belief clarification prompt patterns collected during research.
