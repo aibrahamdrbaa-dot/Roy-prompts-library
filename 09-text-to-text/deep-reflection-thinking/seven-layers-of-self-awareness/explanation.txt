@@ -1,0 +1,31 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-REF-005
+TITLE: Seven Layers of Self-Awareness
+
+PURPOSE
+A seven-step interactive interview where each question is deeper than the previous one.
+
+PROGRESSION
+The prompt starts with observable behavior and gradually explores:
+behavior → values → motivations → recurring choices → fears/avoidance → contradictions → self-protective or optimization patterns.
+
+AFTER EACH ANSWER
+The model reflects briefly, proposes one possible pattern, challenges part of the answer, then asks the next question.
+
+WHY IT WORKS AS AN EXPERIMENT
+It prevents the model from writing a huge "personality report" based on one message. The evidence is generated progressively through dialogue.
+
+BEST USES
+- Self-discovery.
+- Clarifying motivations.
+- Exploring a recurring decision.
+- Understanding why you repeatedly choose similar options.
+
+SEARCH
+seven layers, self awareness, self discovery, progressive interview, deep questions, سبع طبقات, اكتشاف الذات, وعي ذاتي
+
+LIMITATION
+This is a reflective conversation exercise, not a clinical assessment.
+
+SOURCE NOTE
+Roy-adapted and structured from the progressive seven-question prompt pattern collected during research.

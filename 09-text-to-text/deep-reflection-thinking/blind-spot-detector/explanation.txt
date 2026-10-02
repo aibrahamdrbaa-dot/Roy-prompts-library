@@ -1,0 +1,32 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-REF-001
+TITLE: Blind Spot Detector
+
+PURPOSE
+Use this as an interactive text-to-text analysis when you want the model to identify recurring blind spots from actual conversational evidence instead of giving generic personality descriptions.
+
+WHAT MAKES IT STRONG
+- Evidence requirement: every inference must point back to observable conversation.
+- Alternative explanation: the model must consider another interpretation instead of treating its first hypothesis as fact.
+- Cost/benefit view: the same pattern is examined for both advantages and disadvantages.
+- Systematic omission: the prompt explicitly asks what the user may be overlooking.
+- Behavioral experiment: it turns a psychological-style hypothesis into something testable in real life.
+- Final discriminating question: the model must ask one question designed to separate competing explanations.
+
+BEST USES
+- After a long series of ChatGPT conversations.
+- When you suspect a recurring habit or decision pattern.
+- When you want evidence-based self-reflection rather than compliments.
+- When you want hypotheses that can be tested rather than labels.
+
+LIMITATIONS
+This is a reflection exercise, not a clinical psychological assessment. The model only sees the evidence available in the conversation and may miss important context.
+
+SEARCH
+blind spot, blind spot detector, self reflection, behavioral patterns, contradictions, كشف النقاط العمياء, تحليل ذاتي, تحليل السلوك
+
+STRUCTURE
+Pattern → Evidence → Alternative → Impact → Overlooked factor → Experiment → Discriminating question.
+
+SOURCE NOTE
+Roy-adapted and structured from the prompt examples collected during the research step; not intended as a verbatim copy of any single source.

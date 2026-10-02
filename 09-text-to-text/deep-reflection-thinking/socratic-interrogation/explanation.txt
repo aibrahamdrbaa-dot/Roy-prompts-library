@@ -1,0 +1,37 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-REF-003
+TITLE: Socratic Interrogation
+
+PURPOSE
+This turns ChatGPT into an interactive Socratic interviewer. It is useful when you want to discover assumptions rather than receive an immediate answer.
+
+CORE MECHANIC
+The model asks only one question at a time. Every next question must depend on your previous response.
+
+WHAT IT TARGETS
+- Vague definitions.
+- Hidden assumptions.
+- Evidence behind beliefs.
+- Contradictions.
+- Conditions that would change your mind.
+- The difference between facts and interpretations.
+
+WHY IT FEELS DIFFERENT
+Most advice prompts produce an answer immediately. This one deliberately withholds the solution and uses the conversation itself as the investigation.
+
+BEST USES
+- Decisions.
+- Strong personal beliefs.
+- Business ideas.
+- Ethical questions.
+- Difficult choices.
+- Problems where you suspect your framing is incomplete.
+
+GOOD INPUT FORMAT
+State one belief, decision, or problem clearly, then let the dialogue proceed.
+
+SEARCH
+Socratic interrogation, Socratic method, hidden assumptions, one question at a time, استجواب سقراطي, طريقة سقراط
+
+SOURCE NOTE
+Roy-adapted and structured from Socratic prompt examples collected during research.

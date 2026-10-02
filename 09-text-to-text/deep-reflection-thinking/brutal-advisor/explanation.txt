@@ -1,0 +1,33 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-REF-004
+TITLE: Brutal Advisor
+
+PURPOSE
+A candid critique prompt for plans, strategies, projects, or decisions. It is designed to attack weak reasoning without turning the interaction into personal abuse.
+
+CORE MECHANIC
+The model searches for underestimation, avoidance, weak assumptions, rationalization, and failure modes.
+
+IMPORTANT DESIGN CHOICE
+The prompt explicitly says:
+- distinguish evidence from inference
+- give the strongest counterargument
+- state what evidence would prove the criticism wrong
+
+This reduces the common failure mode where "brutal" simply becomes confident negativity.
+
+BEST USES
+- Strategy reviews.
+- Project decisions.
+- Business plans.
+- Personal productivity systems.
+- Testing whether a plan is actually moving forward.
+
+SEARCH
+brutal advisor, candid advisor, strategic critique, rationalization, activity vs progress, مستشار صريح, نقد استراتيجي
+
+NOTE
+Use "intellectually ruthless, not emotionally aggressive" to keep the output useful rather than insulting.
+
+SOURCE NOTE
+Roy-adapted and structured from candid-advisor prompt patterns collected during research.

@@ -1,0 +1,31 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-REF-002
+TITLE: Reflection Engine
+
+PURPOSE
+A broader reflection framework that asks the model to construct a candid portrait from conversation evidence while explicitly separating evidence, confidence, alternative explanations, implications, and experiments.
+
+CORE IDEA
+Instead of asking "What kind of person am I?", this prompt asks the model to inspect repeated behavior and decision patterns that are actually visible in the conversation.
+
+KEY MECHANISMS
+1. Evidence-first: observations must be grounded in available conversation.
+2. Confidence: not every observation is equally reliable.
+3. Alternative: competing explanations are required.
+4. Implication: the model examines what could happen if the pattern continues.
+5. Experiment: hypotheses become testable rather than absolute conclusions.
+
+BEST USES
+- End-of-month or end-of-project reflection.
+- Reviewing a long ChatGPT conversation history.
+- Detecting patterns in work habits and decisions.
+- Testing whether self-description matches observable behavior.
+
+LIMITATIONS
+This is not a clinical psychological evaluation. It should not infer trauma, diagnosis, or hidden memories without evidence.
+
+SEARCH
+reflection engine, self awareness, self reflection, behavioral patterns, contradictions, blind spots, محرك التأمل, وعي ذاتي, تحليل السلوك
+
+SOURCE NOTE
+Roy-adapted and structured from the Reflection Engine concept collected during research, with additional evidence and testing constraints.

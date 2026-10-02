@@ -1,0 +1,39 @@
+ROY PROMPTS LIBRARY — EXPLANATION
+Prompt ID: RPL-TXT-REF-006
+TITLE: Problem Defrag
+
+PURPOSE
+Use this when a problem feels stuck after several attempts. The prompt deliberately delays solution generation and first interrogates the problem definition.
+
+CORE QUESTIONS
+- What do I think the problem is?
+- What could actually be causing it?
+- What have I already tried?
+- What failed?
+- Which constraints are real?
+- Which constraints may be assumptions?
+- What evidence is missing?
+- Is the problem framed correctly?
+
+FINAL OUTPUT
+After enough questioning, the model:
+A. reframes the problem
+B. proposes a hidden variable
+C. suggests 3 unusual approaches
+D. identifies which assumption each approach breaks
+
+WHY IT IS DIFFERENT
+Many AI prompts optimize for answering quickly. This one optimizes for discovering whether you are solving the right problem in the first place.
+
+BEST USES
+- Stubborn business problems.
+- Productivity bottlenecks.
+- Project blockers.
+- Decisions that keep looping.
+- Problems where every obvious solution has already failed.
+
+SEARCH
+problem defrag, problem reframing, hidden variable, root cause questioning, assumption testing, stuck problem, تفكيك المشكلة, إعادة تأطير المشكلة, السبب الجذري
+
+SOURCE NOTE
+Roy-adapted and structured from the problem-interrogation prompt pattern collected during research.

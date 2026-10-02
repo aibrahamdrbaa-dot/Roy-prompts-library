@@ -14,6 +14,7 @@ A structured, searchable library of reusable AI prompts maintained for Roy.
 | `06-research` | Research, analysis, extraction, comparison |
 | `07-automation` | Automations, workflows, integrations |
 | `08-agents` | AI agents, tools, memory, orchestration |
+| `09-text-to-text` | Interactive reasoning, reflection, questioning, and thinking experiments |
 
 ## Prompt file convention
 
@@ -27,26 +28,20 @@ Every reusable prompt can have two companion files in the same folder:
 Use English or Arabic keywords when searching this repository. Examples:
 
 `logo animation`
-`signage animation`
-`store logo animation`
 `storefront logo reveal`
-`shop sign animation`
 `animate logo in image`
-`image to video logo`
-`logo reveal`
-`logo assembly`
-`After Effects style`
-`cinematic commercial animation`
+`blind spot`
+`self reflection`
+`reflection engine`
+`Socratic interrogation`
+`brutal advisor`
+`seven layers`
+`problem defrag`
 `تحريك لوغو`
 `تحريك شعار محل`
-`تحريك لافتة متجر`
 `تحريك لوغو على اللافتة`
-`موشن للوغو`
-`كشف الشعار`
-`ظهور الشعار`
-
-## Current library
-
-### Image / Video → Logo & Signage Animation
-
-- [Animate Logo on Store Sign](01-image-video/logo-signage/animate-logo-on-store-sign.md)
+`تحليل ذاتي`
+`كشف النقاط العمياء`
+`استجواب سقراطي`
+`تجربة نفسية مع ChatGPT`
+`تفكيك المشكلة`
